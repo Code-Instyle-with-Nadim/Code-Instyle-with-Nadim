@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="nadimul-green-banner.png" alt="Nadimul Islam — Full Stack Web Development" />
+<img width="100%" src="assets/nadimul-green-banner.png" alt="Nadimul Islam — Full Stack Web Development" />
 
 <br/>
 
@@ -56,8 +56,8 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="GitHub profile statistics" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&hide_border=true&title_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="Programming language distribution" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img height="165" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&perline=5" alt="Technology icons only" />
 </a>
 
 <br/>
