@@ -24,7 +24,7 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
 ## 🧰 Things I code with
 
 
-<div align="center">
+
 
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
@@ -44,7 +44,7 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-</div>
+
 ## 🌱 What I'm working on
 
 - Building modern web interfaces with **React, Next.js, and TypeScript**.
