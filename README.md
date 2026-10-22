@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/nadimul-green-banner.png" alt="Nadimul Islam — Full Stack Web Development" />
+<img width="100%" src="profile.png" alt="Nadimul Islam — Full Stack Web Development" />
 
 <br/>
 
