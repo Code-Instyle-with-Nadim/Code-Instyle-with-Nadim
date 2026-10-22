@@ -27,7 +27,7 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
 
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img height="500" width="500" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&perline=5" alt="Technology icons only" />
+  <img height="500"  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&perline=5" alt="Technology icons only" />
 </a>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
