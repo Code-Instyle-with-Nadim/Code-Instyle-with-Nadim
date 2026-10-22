@@ -21,13 +21,22 @@ Welcome to my GitHub page!
 
 I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused on learning modern web development and building practical projects. I'm growing my skills across the frontend and backend, from responsive user interfaces to APIs and databases.
 
-## 🧰 Technologies I Work With
+## 🧰 Things I code with
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode&perline=7" alt="Technology icons" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ## 🌱 What I'm working on
 
@@ -56,19 +65,15 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="GitHub profile statistics" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img height="165" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&perline=5" alt="Technology icons only" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="Top languages" />
 </a>
 
 <br/>
 
 <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-<br/><br/>
+<br/>
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 
