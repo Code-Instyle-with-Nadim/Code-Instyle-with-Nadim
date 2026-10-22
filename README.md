@@ -60,15 +60,15 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
 |:--|:--|:--|
 | [BazarDor](https://github.com/YOUR_GITHUB_USERNAME/YOUR_BAZARDOR_REPO) | Next.js · TypeScript | Market-price application focused on product information and responsive UI. |
 | [DevStack Builder](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DEVSTACK_REPO) | React · TypeScript · Vite | Frontend practice project focused on reusable UI and responsive layouts. |
-| [Backend API Practice](https://github.com/YOUR_GITHUB_USERNAME/YOUR_BACKEND_REPO) | Node.js · Express · MongoDB | Practice with REST endpoints, database queries, and CRUD operations. |
+| [Fit Log]([https://github.com/YOUR_GITHUB_USERNAME/YOUR_BACKEND_REPO](https://github.com/Code-Instyle-with-Nadim/Nadim-Assignment-6-fit-log-app)) | Node.js · Express · MongoDB | Practice with REST endpoints, database queries, and CRUD operations. |
 
-[![Explore repositories](https://img.shields.io/badge/Explore%20all%20repositories-166534?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![Explore repositories](https://img.shields.io/badge/Explore%20all%20repositories-166534?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Code-Instyle-with-Nadim)?tab=repositories)
 
 ## 📊 GitHub overview
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="[[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Code-Instyle-with-Nadim)](https://github.com/Code-Instyle-with-Nadim)">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="GitHub profile statistics" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
