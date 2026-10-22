@@ -26,25 +26,11 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="GitHub profile statistics" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
   <img height="165" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&perline=5" alt="Technology icons only" />
 </a>
 
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
