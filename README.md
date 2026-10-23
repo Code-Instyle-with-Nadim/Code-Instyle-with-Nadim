@@ -41,7 +41,7 @@ My goal is to become a skilled full-stack developer by building real-world proje
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
+  <img hight="300" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### Backend Development
