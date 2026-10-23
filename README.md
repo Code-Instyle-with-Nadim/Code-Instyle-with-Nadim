@@ -260,17 +260,9 @@ My goal is to become a skilled full-stack developer by building real-world proje
 
 <!--START_SECTION:waka-->
 
-<div align="center">
-
-<a href="https://wakatime.com/@e1556f80-54df-4213-91c0-a5e70e7eada2">
-<img src="https://img.shields.io/badge/WakaTime-View%20Coding%20Activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="View WakaTime Coding Activity" />
-</a>
-
-<br/><br/>
-
-**Track my coding journey and explore my programming activity.**
-
-</div>
+```txt
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 ---
