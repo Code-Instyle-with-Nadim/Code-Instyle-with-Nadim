@@ -2,13 +2,16 @@
 
 <img width="100%" src="profile.png" alt="Nadimul Islam — Full Stack Web Development" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=16a34a&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/Code-Instyle-with-Nadim">
+  <img src="https://komarev.com/ghpvc/?username=Code-Instyle-with-Nadim&style=flat-square&color=16a34a&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20my%20work-166534?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+<a href="https://github.com/Code-Instyle-with-Nadim?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-166534?style=flat-square&logo=github&logoColor=white" alt="Explore Repositories" />
+</a>
+<a href="https://www.youtube.com/@code-instyle-with-nadim">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel" />
 </a>
 
 </div>
@@ -17,18 +20,48 @@
 
 ## 👋 Hey! Nice to see you.
 
-Welcome to my GitHub page!
+Welcome to my GitHub profile!
 
-I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused on learning modern web development and building practical projects. I'm growing my skills across the frontend and backend, from responsive user interfaces to APIs and databases.
+I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh passionate about modern web development, building practical applications, and continuously improving my programming skills.
 
-## 🧰 Things I code with
+I enjoy creating responsive user interfaces, working with APIs, and developing web applications using modern JavaScript technologies.
 
+My goal is to become a skilled full-stack developer by building real-world projects and learning something new every day.
 
+* 🌍 Based in Bangladesh.
+* 💻 Focused on modern web development.
+* 🌱 Continuously learning and improving my skills.
+* 🚀 Building practical projects with React, Next.js, and TypeScript.
+* 🤝 Interested in collaboration, learning, and open-source development.
 
+---
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img height="500" width="1000" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&perline=5" alt="Technology icons only" />
-</a>
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Technologies" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -44,60 +77,247 @@ I'm **Nadimul Islam**, a Diploma in Engineering student from Bangladesh, focused
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🌱 What I'm working on
+---
 
-- Building modern web interfaces with **React, Next.js, and TypeScript**.
-- Practicing REST APIs, server-side logic, and CRUD operations.
-- Learning to connect frontend applications with **Node.js, Express.js, and MongoDB**.
-- Improving responsive design, code organization, debugging, and project structure.
-- Exploring AI-powered web applications as a future direction.
+## 🌱 Currently Learning
 
-## 🚀 Open-source & personal projects
+* Advanced Next.js App Router concepts.
+* TypeScript best practices.
+* Server-side rendering and data fetching.
+* Authentication and authorization.
+* REST API development and integration.
+* Database operations with MongoDB.
 
-> Replace the example repository names below with the exact repository names from your GitHub account. The cards and links will then show your real projects.
+---
 
-| 🎁 Project | 🛠️ Tech | 📌 What it is |
-|:--|:--|:--|
-| [BazarDor](https://github.com/YOUR_GITHUB_USERNAME/YOUR_BAZARDOR_REPO) | Next.js · TypeScript | Market-price application focused on product information and responsive UI. |
-| [DevStack Builder](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DEVSTACK_REPO) | React · TypeScript · Vite | Frontend practice project focused on reusable UI and responsive layouts. |
-| [Fit Log]([https://github.com/YOUR_GITHUB_USERNAME/YOUR_BACKEND_REPO](https://github.com/Code-Instyle-with-Nadim/Nadim-Assignment-6-fit-log-app)) | Node.js · Express · MongoDB | Practice with REST endpoints, database queries, and CRUD operations. |
+## 🎯 Current Focus
 
-[![Explore repositories](https://img.shields.io/badge/Explore%20all%20repositories-166534?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Code-Instyle-with-Nadim)?tab=repositories)
+* Building modern applications with React, Next.js, and TypeScript.
+* Improving responsive design and user experience.
+* Learning full-stack application architecture.
+* Implementing authentication and database integration.
+* Writing clean, reusable, and maintainable code.
+* Improving debugging and problem-solving skills.
 
-## 📊 GitHub overview
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="[[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Code-Instyle-with-Nadim)](https://github.com/Code-Instyle-with-Nadim)">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="GitHub profile statistics" />
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🛒 BazarDor</h3>
+
+<p align="center">A market-price application for browsing product information and prices.</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" alt="Next.js, TypeScript and Tailwind CSS" />
+</p>
+
+<div align="center">
+
+<a href="https://github.com/Code-Instyle-with-Nadim/A-7-Bazar-Dor-By-Nadim">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=22c55e&text_color=cbd5e1&bg_color=0d1117" alt="Top languages" />
+<a href="https://a-7-bazar-dor-by-nadim.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
-## ✍️ Latest posts
+</td>
+<td width="50%">
 
-I haven't added a public developer-blog feed yet. When you start publishing technical articles on DEV.to, Medium, or your own blog, this section can be connected to update automatically using GitHub Actions.
+<h3 align="center">📰 News Instyle BD</h3>
 
-## 🤝 Where to find me
+<p align="center">A news application presenting news content through a modern web interface.</p>
 
-<div align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" alt="Next.js, TypeScript and Tailwind CSS" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-<!-- Replace the placeholder below with your real LinkedIn profile URL, or remove it if you don't use LinkedIn. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-<!-- Replace YOUR_EMAIL with an email address you are comfortable making public, or remove this badge. -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<div align="center">
+
+<a href="https://github.com/Code-Instyle-with-Nadim/nadim-news-instyle-bd">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+<a href="https://nadin-last-news-instyle-bd.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">💪 Fit Log</h3>
+
+<p align="center">A fitness application focused on workout tracking and personal plans.</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="React, TypeScript and Tailwind CSS" />
+</p>
+
+<div align="center">
+
+<a href="https://github.com/Code-Instyle-with-Nadim/Nadim-Assignment-6-fit-log-app">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+<a href="https://nadim-assignment-6-fit-log-app.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📚 Book Instyle</h3>
+
+<p align="center">A web project focused on a modern book-related browsing experience.</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" alt="Next.js, TypeScript and Tailwind CSS" />
+</p>
+
+<div align="center">
+
+<a href="https://book-instyle-next-project-by-nadim.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<h3 align="center">⚛️ My Assignment 5 React App</h3>
+
+<p align="center">A React project focused on frontend development.</p>
+
+<div align="center">
+
+<a href="https://github.com/Code-Instyle-with-Nadim/My-Assignment-5-React-App">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Code-Instyle-with-Nadim?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-166534?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+</div>
+
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/Code-Instyle-with-Nadim">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Instyle-with-Nadim&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Statistics" />
+</a>
+<a href="https://github.com/Code-Instyle-with-Nadim">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Instyle-with-Nadim&layout=compact&langs_count=8&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Programming Languages" />
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Code-Instyle-with-Nadim&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Contribution Streak" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Code-Instyle-with-Nadim&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Profile Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-Instyle-with-Nadim/Code-Instyle-with-Nadim/output/snake.svg" alt="Contribution Snake" />
+</p>
+---
+
+## ⏱️ Coding Activity
+
+
+
+<div align="center">
+
+<a href="https://wakatime.com/@e1556f80-54df-4213-91c0-a5e70e7eada2">
+<img src="https://img.shields.io/badge/WakaTime-View%20Coding%20Activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="View WakaTime Coding Activity" />
+</a>
+
+<br/><br/>
+
+**Track my coding journey and explore my programming activity.**
+
+</div>
+
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- Add your blog profile or configure an automated blog-post workflow here. -->
+
+* Technical articles and tutorials — coming soon.
+* Development notes and project learnings — coming soon.
+
+---
+
+## 📺 YouTube Channel
+
+<div align="center">
+
+<a href="https://www.youtube.com/@code-instyle-with-nadim">
+  <img src="https://img.shields.io/badge/Code%20Instyle%20With%20Nadim-Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Code Instyle With Nadim" />
+</a>
+
+<br/><br/>
+
+Visit my YouTube channel for videos and creative content.
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Code-Instyle-with-Nadim">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/md.nadimul.2693">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.linkedin.com/in/md-nadimul-866a6937b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@code-instyle-with-nadim">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="mailto:nadimul01565@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -105,8 +325,8 @@ I haven't added a public developer-blog feed yet. When you start publishing tech
 
 <div align="center">
 
-**Learning consistently · Building practically · Improving every day**
+### 💚 Learning Consistently · Building Practically · Improving Every Day
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:15803D,100:22C55E&height=100&section=footer" alt="Green footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:15803D,100:22C55E&height=120&section=footer" alt="Green Animated Footer" />
 
 </div>
