@@ -258,6 +258,7 @@ My goal is to become a skilled full-stack developer by building real-world proje
 ## ⏱️ Coding Activity
 
 
+<!--START_SECTION:waka-->
 
 <div align="center">
 
@@ -271,7 +272,7 @@ My goal is to become a skilled full-stack developer by building real-world proje
 
 </div>
 
-
+<!--END_SECTION:waka-->
 ---
 
 ## 📚 Latest Blog Posts
