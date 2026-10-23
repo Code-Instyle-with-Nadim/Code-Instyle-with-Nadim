@@ -245,15 +245,14 @@ My goal is to become a skilled full-stack developer by building real-world proje
 
 <h2 align="center">🏆 GitHub Profile Trophies</h2>
 
-<h2 align="center">🏆 GitHub Profile Trophies</h2>
-
 <div align="center">
   <img
     width="90%"
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Code-Instyle-with-Nadim&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
+    src="https://trophy.ryglcloud.net/?username=Code-Instyle-with-Nadim&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
     alt="GitHub Profile Trophies"
   />
 </div>
+
 
 
 
