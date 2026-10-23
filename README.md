@@ -248,10 +248,12 @@ My goal is to become a skilled full-stack developer by building real-world proje
 
 ---
 
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Code-Instyle-with-Nadim/Code-Instyle-with-Nadim/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Code-Instyle-with-Nadim/Code-Instyle-with-Nadim/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 
